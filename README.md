@@ -1,2 +1,1 @@
-# repoUno
-prueba del primer repositorio
+probando como modificar reposwitorio deswde vcode
